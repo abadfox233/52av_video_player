@@ -42,7 +42,7 @@ use the Mysql and Pyqt5
 
 * the config file is the video_config.init
 > the initial setting is this
-``` python
+```
 [db]
 db_user = 52av
 db_password = 52av
@@ -72,7 +72,7 @@ end_page = 5
 * about the [52avSpider](https://github.com/abadfox233/52avSpider)
 
 > you must edit the 52avSpider dir on ./tools/VideoUpdate.py
-`spider_path = r'E:\mycs\python\scrapyproject\project_av\project_av'`
+>>`spider_path = r'E:\mycs\python\scrapyproject\project_av\project_av'`
 
 ----
 
