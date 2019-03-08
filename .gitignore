@@ -1,0 +1,7 @@
+*.exe
+build/
+dist/
+.idea/
+__pycache__/
+video/
+home.spec

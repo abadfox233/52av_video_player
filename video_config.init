@@ -1,0 +1,24 @@
+[db]
+db_user = 52av
+db_password = 52av
+db_database = 52av
+
+[setting]
+tuo_pan = False
+show_tuo_pan = True
+start_image_path = E:/mycs/python/scrapyproject/project_av/project_av/images
+download_m3u8_proxy = True
+proxy_ip = 127.0.0.1
+proxy_port = 1080
+
+[aria2c]
+max_download = 71
+max_connect = 16
+proxy = True
+proxy_ip = 127.0.0.1
+proxy_port = 1080
+
+[update]
+start_page = 1
+end_page = 2
+
